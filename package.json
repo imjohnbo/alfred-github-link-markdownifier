@@ -1,13 +1,13 @@
 {
-  "name": "alfred-link-prettifier",
+  "name": "alfred-github-link-markdownifier",
   "version": "0.0.1",
   "description": "Markdownifies links to GitHub issues and PRs",
   "license": "MIT",
-  "repository": "imjohnbo/alfred-link-prettifier",
+  "repository": "imjohnbo/alfred-github-link-markdownifier",
   "author": {
     "name": "John Bohannon",
     "email": "imjohnbo@github.com",
-    "url": "github.com/imjohnbo"
+    "url": "https://github.com/imjohnbo"
   },
   "engines": {
     "node": ">=12"

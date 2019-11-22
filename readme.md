@@ -3,7 +3,7 @@
 > Prettifies Markdown links on GitHub
 
 
-## Install
+## Install 
 
 ```
 $ npm install --global alfred-link-prettifier

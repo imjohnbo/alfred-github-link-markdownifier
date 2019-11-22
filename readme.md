@@ -1,6 +1,6 @@
-# alfred-link-prettifier [![Build Status](https://travis-ci.org/imjohnbo/alfred-link-prettifier.svg?branch=master)](https://travis-ci.org/imjohnbo/alfred-link-prettifier)
+# alfred-github-link-markdownifier
 
-> Prettifies Markdown links on GitHub
+> Markdownifies links to GitHub issues and PRs
 
 
 ## Install

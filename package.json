@@ -1,0 +1,32 @@
+{
+  "name": "alfred-link-prettifier",
+  "version": "0.0.1",
+  "description": "Markdownifies links to GitHub issues and PRs",
+  "license": "MIT",
+  "repository": "imjohnbo/alfred-link-prettifier",
+  "author": {
+    "name": "John Bohannon",
+    "email": "imjohnbo@github.com",
+    "url": "github.com/imjohnbo"
+  },
+  "engines": {
+    "node": ">=12"
+  },
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
+  "files": [
+    "index.js",
+    "icon.png",
+    "info.plist"
+  ],
+  "keywords": [
+    "alfred",
+    "workflow",
+    "alfy"
+  ],
+  "dependencies": {
+    "alfy": "^0.9.1"
+  }
+}
